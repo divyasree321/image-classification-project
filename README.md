@@ -31,5 +31,5 @@ The final trained models achieved high accuracy on both medical imaging tasks wi
 
 ---
 
-**Author:** *[Your Name]*  
-**Date:** *May 2025*
+**Author:** *[P.DIVYA SREE]*  
+**Date:** *15TH May 2025*
